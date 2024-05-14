@@ -1,2 +1,4 @@
 # TS-MSAF-pro
-This is code of my graduation design，Multi index anomaly subsequence detection based on TS-MSAF
+这是毕设多指标时间序列异常子序列检测检测所对应的代码。其中有两个文件夹，一个对应数据集预处理及指标选择部分的代码，另一个对应改进版本的TS-MSAF的代码，这其中也包含了原始版本的代码。
+
+
